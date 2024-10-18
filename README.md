@@ -8,6 +8,13 @@ The project consists of the following files:
 2. master.py: This file contains functions to communicate with an external microcontroller and send the tool path created by process.py for rendering on the Etch-A-Sketch.
 3. main.py: This is the entry point of the application. It provides a command-line interface for users to choose an SVG file from the ./svgs folder or download an SVG from a URL, and then process and render the SVG using the process.py and master.py modules.
 
+## Demo
+Drawing using a Kuka robotic arm: [External Link](https://photos.google.com/share/AF1QipMgDLdhmPM78UdYDQLg3_GZDZhHx77GG5a2ObUEn-hGRrNtpL1n_whhN-3Bwomh_w/photo/AF1QipNXbV1kx2ZRvc60yEeRe2C-1kIyT9j1Otw7-vrS?key=Tlk5clF3ajQyZHU1U3pqbllXMTBJdWh1d3JJaFJB).
+
+Basketball Bear (Drawn by a Kuka robotic arm):
+![IMG_1301](https://github.com/user-attachments/assets/01dc07a5-6418-4e6c-b78c-ac70d2562865)
+
+
 ## Installation
 To set up the project, follow these steps:
 
